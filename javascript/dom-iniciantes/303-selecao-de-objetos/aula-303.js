@@ -24,7 +24,7 @@ primeiraUl.classList.add('grid-section');
 // console.log(gridSectionHTML[0]);
 // console.log(gridSectionNode[0]);
 
-gridSectionNode.forEach(function(item, index){
+gridSectionNode.forEach(function(item){
   console.log(item);
 });
 
